@@ -33,11 +33,11 @@ function narcissistic(value) {
 }
 ```
 # **Work Experience:**
-   1 year of commercial experience based on the BSUIR website support team
+1 year of commercial experience based on the BSUIR website support team
 
 # **Education:**
-   1. College of Business and Law 2016-2019
-   1. Belarusian State University of Informatics and Radioelectronics 2019-2021 (didn`t graduate)
+ 1. College of Business and Law 2016-2019
+ 1. Belarusian State University of Informatics and Radioelectronics 2019-2021 (didn`t graduate)
 # **Languages:**
-  1. Russian - Native
-  2. English - В2
+ 1. Russian - Native
+ 2. English - В2
