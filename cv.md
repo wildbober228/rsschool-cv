@@ -17,7 +17,7 @@ and I am sure that I can do it because my strength is fast learning and dedicati
  2. React JS, Redux
  3. JavaScript 
  4. GIT, GitHub
- 5. Editors: Vs Code & Intellij Idea
+ 5. Editors: (Vs Code & Intellij Idea)
 # **Code Example:**
 *The Challenge:*
 Your code must return true or false (not 'true' and 'false') depending upon whether the given number is a **Narcissistic number** in base 10.
