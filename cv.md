@@ -6,6 +6,7 @@
 * GitHub: [wildbober228](https://github.com/wildbober228)
 * Telegram: [@wildbober](https://t.me/wildbober)
 * Rs-school Discord server nickname: [Eduard (@wildbober228)](wildfarmer#4505)
+
 # **Summary aboute Me:**
 I am a beginner _web developer_, 
 I have a _year_ of _commercial experience_ on the basis of the website support team of the **BSUIR** University.
