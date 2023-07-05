@@ -1,1 +1,1 @@
-# rsschool-cv
+https://wildbober228.github.io/rsschool-cv/
